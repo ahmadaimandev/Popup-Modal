@@ -1,57 +1,10 @@
-* {
-    margin: 0;
-    padding: 0;
-    font-family: "Poppins", sans-serif;
-}
-
 .promo-card {
-    margin: 50px auto;
-    width: 100%;
-    max-width: 450px;
     background-color: white;
-    border: 1px solid rgb(155, 155, 155);
-    border-radius: 15px;
-    display: block;
-    box-shadow: 5px 5px 6px #888888;
-}
-
-figure {
-    margin: 10px auto;
-    padding: 20px;
-}
-img {
+    border: 1px solid grey;
+    border-radius: 20px;
+    box-shadow: 5px 5px 8px rgba(143, 143, 143, 0.733);
     width: 100%;
-    height: 400px;
-    max-width: 400px;
-    display: block;
-    margin: auto;
-}
-
-.promo-tag {
     margin: 20px auto;
-}
-h2{
-    text-align: center;
-    font-family: "Poppins", sans-serif;
-    font-size: 1em;
-    font-weight: bold;
-}
-
-button {
-    margin: 20px auto;
-    display: block;
-    width: 80%;
-    background-color: #3898EC;
-    color: white;
-    border-radius: 50px;
-    border: none;
-    height: 50px;
-    font-family: "Poppins", sans-serif;
-    transition: 0.2s ease-in;
-}
-
-button:hover {
-    background-color: #0b0a33;
-    color: white;
-    transition: 0.3 ease-in-out;
+    padding: 10px 20px 20px 20px;
+    max-width: 500px;
 }
