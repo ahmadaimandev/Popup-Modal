@@ -21,9 +21,21 @@ Clone my repository
 ```
 
 ## Screenshots 🖼
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
+        <h3>Original Design</h3>
+        <img src="/preview-image/original.png" alt="Original Design" style="max-width: 100%; height: auto;">
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <h3>My Design</h3>
+        <img src="/preview-image/preview.png" alt="My Design" style="max-width: 100%; height: auto;">
+    </div>
+</div>
+
 ## Guidance 📚
 
 - [W3School](https://www.w3schools.com/)
+
 ## Disclaimer 🚫
 
 Please note that while I have closely followed the design from Bukku, my version has some differences and lacks certain elements present in the original design.
