@@ -20,13 +20,13 @@ Clone my repository
 ## Screenshots 🖼
 
 <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; text-align: center; padding: 10px;">
+    <div style="flex: 1; text-align: center;">
         <h3>Original Design</h3>
-        <img src="/preview-image/original.png" alt="Original Design" style="max-width: 80%; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+        <img src="/preview-image/original.png" alt="Original Design" style="max-width: 300px; height: auto;">
     </div>
-    <div style="flex: 1; text-align: center; padding: 10px;">
+    <div style="flex: 1; text-align: center;">
         <h3>My Design</h3>
-        <img src="/preview-image/preview.png" alt="My Design" style="max-width: 80%; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+        <img src="/preview-image/preview.png" alt="My Design" style="max-width: 300px; height: auto;">
     </div>
 </div>
 
