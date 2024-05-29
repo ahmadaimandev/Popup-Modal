@@ -1,8 +1,8 @@
 
 # Popup Modal Project
 
-This project is a simple popup modal inspired by the design from Bukku.my. 
-The goal was to test and improve my HTML and CSS skills by replicating a professional design
+This project is a simple popup modal inspired by the design from [Bukku.my](https://bukku.my/). 
+The goal was to test and improve my HTML and CSS skills by replicating a professional design.
 
 
 ## Technology Used ⚡
