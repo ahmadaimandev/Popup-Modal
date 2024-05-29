@@ -8,3 +8,37 @@
     padding: 10px 20px 20px 20px;
     max-width: 500px;
 }
+
+figure {
+
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 450px;
+    height: 450px;
+    margin: 0 auto;
+    display: block;
+}
+
+button {
+    display: block;
+    margin: auto;
+    width: 70%;
+    height: 50px;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+    border: none;
+    border-radius: 40px;
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(11, 11, 82);
+}
