@@ -22,11 +22,11 @@ Clone my repository
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
         <h3>Original Design</h3>
-        <img src="/preview-image/original.png" alt="Original Design" style="max-width: 150px; height: auto;">
+        <img src="/preview-image/original.png" alt="Original Design" style="max-width: 100px; height: auto;">
     </div>
     <div style="flex: 1; text-align: center;">
         <h3>My Design</h3>
-        <img src="/preview-image/preview.png" alt="My Design" style="max-width: 150px; height: auto;">
+        <img src="/preview-image/preview.png" alt="My Design" style="max-width: 100px; height: auto;">
     </div>
 </div>
 
